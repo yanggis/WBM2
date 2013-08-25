@@ -218,4 +218,13 @@ pip-log.txt
 ## NetBeans
 #############
 nbproject/
+
+#################
+## NCMS + WBM 2
+#################
 /testDoc/
+/js/DataTables/
+/js/bxslider/
+/css/
+/js/ckeditor/
+conf.ini
